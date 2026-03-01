@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://datacite.org/schema/kernel-4
+                              http://schema.datacite.org/meta/kernel-4.4/metadata.xsd">
+
+    <identifier identifierType="DOI">10.xxxx/placeholder</identifier>
+
+    <creators>
+        <creator>
+            <creatorName>Soulaiman, Hanan</creatorName>
+            <givenName>Hanan</givenName>
+            <familyName>Soulaiman</familyName>
+        </creator>
+        <creator>
+            <creatorName>Cribbs, Heather L.</creatorName>
+            <givenName>Heather L.</givenName>
+            <familyName>Cribbs</familyName>
+        </creator>
+        <creator>
+            <creatorName>Gardner, Gabriel J.</creatorName>
+            <givenName>Gabriel J.</givenName>
+            <familyName>Gardner</familyName>
+        </creator>
+    </creators>
+
+    <titles>
+        <title>Data for To Pre-Filter or Not to Pre-Filter: A Multi-Campus Big Data Study</title>
+    </titles>
+
+    <publisher>Figshare</publisher>
+
+    <publicationYear>2022</publicationYear>
+
+    <resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+
+    <rightsList>
+        <rights rightsURI="https://creativecommons.org/licenses/by/4.0/">
+            Creative Commons Attribution 4.0 International (CC BY 4.0)
+        </rights>
+    </rightsList>
+
+</resource>
