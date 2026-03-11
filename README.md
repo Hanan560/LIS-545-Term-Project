@@ -4,7 +4,9 @@ Overview - This repository contains a curated documentation for the following da
 Cribbs, H. L., & Gardner, G. J. (2022).
 Data for “To Pre-Filter, or Not to Pre-Filter: That Is the Query: A Multi-Campus Big Data Study”. Figshare. https://doi.org/10.6084/m9.figshare.19071578.v1
 
-Associated publication to the dataset - Cribbs, H. L., & Gardner, G. J. (2022). To pre-filter, or not to pre-filter, that is the query: A multi-campus big data study. Journal of Librarianship and Information Science, 55(4), 1119-1142. https://doi-org.offcampus.lib.washington.edu/10.1177/09610006221124609 (Original work published 2023)
+Associated publication:
+
+Cribbs, H. L., & Gardner, G. J. (2022). To pre-filter, or not to pre-filter, that is the query: A multi-campus big data study. Journal of Librarianship and Information Science, 55(4), 1119-1142. https://doi-org.offcampus.lib.washington.edu/10.1177/09610006221124609 (Original work published 2023)
 
 List of files:
 1. 2017-2019_RAW.csv: Raw search interaction logs exported from Ex Libris Primo Analytics (OBIEE) for all 24 CalState libraries for calendar years 2017 - 2019.
