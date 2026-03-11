@@ -1,7 +1,6 @@
 # LIS-545-Term-Project (Data Curation)
-Overview
+Overview - This repository contains a curated documentation for the following dataset:
 
-This repository contains a curated documentation for the following dataset:
 Cribbs, H. L., & Gardner, G. J. (2022).
 Data for “To Pre-Filter, or Not to Pre-Filter: That Is the Query: A Multi-Campus Big Data Study”. Figshare. https://doi.org/10.6084/m9.figshare.19071578.v1
 
